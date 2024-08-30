@@ -1,31 +1,22 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.5",
+  "name": "siyuan_database_modification",
+  "author": "zxkmm",
+  "url": "https://github.com/zxkmm/siyuan_database_modification",
+  "version": "0.0.1",
   "minAppVersion": "3.0.12",
   "backends": [
-    "windows",
-    "linux",
-    "darwin",
-    "docker",
-    "ios",
-    "android"
+    "all"
   ],
   "frontends": [
-    "desktop",
-    "mobile",
-    "browser-desktop",
-    "browser-mobile",
-    "desktop-window"
+    "all"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "siyuan_database_modification",
+    "zh_CN": "数据库方便点击"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "siyuan_database_modification",
+    "zh_CN": "数据库方便点击链接等单元格"
   },
   "readme": {
     "en_US": "README.md",
@@ -37,6 +28,6 @@
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "zxkmm", "database", "touchscreen", "数据库", "触屏"
   ]
 }
